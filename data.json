@@ -1,0 +1,71 @@
+{
+    "arabica": [
+      {
+        "foto": "images/produk/product_capuchino.jpg",
+        "nama": "Cappuccino Arabica",
+        "size": "500 Gram",
+        "harga": "200.000",
+        "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+      },
+      {
+        "foto": "images/produk/product_espresso.jpg",
+        "nama": "Pahit Arabica",
+        "size": "100 Gram",
+        "harga": "100.000",
+        "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+      },
+      {
+        "foto": "images/produk/product_latte.jpg",
+        "nama": "Latte Arabica",
+        "size": "150 Gram",
+        "harga": "150.000",
+        "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+      }
+    ],
+    "robusta": [
+      {
+        "foto": "images/produk/product_kopi_susu.jpg",
+        "nama": "Kopsus Robusta",
+        "size": "100 Gram",
+        "harga": "80.000",
+        "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+      },
+      {
+        "foto": "images/produk/product_latte.jpg",
+        "nama": "Latte Robusta",
+        "size": "150 Gram",
+        "harga": "150.000",
+        "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+      },
+      {
+        "foto": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/b8af0b66-bc32-4eb7-8f22-77cd3a508781_Go-Biz_20210711_005618.jpeg?auto=format",
+        "nama": "Espreso Ice Robusta",
+        "size": "200 Gram",
+        "harga": "11.500",
+        "link": "https://gofood.co.id/en/pontianak/restaurant/cw-coffee-hijas-a83ada79-6764-4f5d-828c-dfc7f2743813"
+      }
+    ],
+    "nonkopi": [
+      {
+        "foto": "https://img.freepik.com/free-photo/top-view-set-ice-cream-cones-with-chocolate_23-2148425392.jpg",
+        "nama": "Ice Cream",
+        "size": "1 cup",
+        "harga": "10.000",
+        "link": "https://www.google.com/search?q=ice+cream+cone&tbm=shop"
+      },
+      {
+        "foto": "https://images.tokopedia.net/img/cache/900/VqbcmM/2021/9/23/472d39ac-e39a-4175-87da-b8aca867ad7d.jpg",
+        "nama": "Es Pisang Ijo",
+        "size": "1 porsi",
+        "harga": "20.000",
+        "link": "https://www.tokopedia.com/dvafashion/es-pisang-ijo?utm_source=google&utm_medium=organic&utm_campaign=pdp-seo"
+      },
+      {
+        "foto": "https://images.tokopedia.net/img/cache/500-square/product-1/2020/8/20/9422372/9422372_312a406c-f530-4398-ab8c-53611253050a_1548_1548.jpg",
+        "nama": "Es Campur",
+        "size": "1 porsi",
+        "harga": "13.000",
+        "link": "https://www.tokopedia.com/lilifruits/es-campur-medan?utm_source=google&utm_medium=organic&utm_campaign=pdp-seo"
+      }
+    ]
+  }
