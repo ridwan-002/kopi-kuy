@@ -67,5 +67,30 @@
         "harga": "13.000",
         "link": "https://www.tokopedia.com/lilifruits/es-campur-medan?utm_source=google&utm_medium=organic&utm_campaign=pdp-seo"
       }
-    ]
+    
+  ],
+  "gorengan": [
+    {
+      "nama": "bala-bala",
+      "size": "5 ",
+      "harga": "12.000",
+      "link": "#https://shopee.co.id/Bala-bala-i.59530687.8774159874",
+      "foto": "https://down-id.img.susercontent.com/file/3dc73f5749e0f713409961adae575c19"
+    },
+    {
+      "nama": "gehu pedas",
+      "size": "8",
+      "harga": "25.000",
+      "link": "#https://shopee.co.id/Tahu-Isi-Pedas-Jeletot-Tahu-Isi-Mercon-Tahu-Isi-Sayur-Pedas-Tahu-i.95641157.25311761020?sp_atk=bd94d7d2-4e3a-44a6-bdde-ede25de795e9&xptdk=bd94d7d2-4e3a-44a6-bdde-ede25de795e9",
+      "foto": "https://down-id.img.susercontent.com/file/id-11134207-7r98x-lr5zy6dgavk6af"
+    },
+    {
+      "nama": "Cireng isi",
+      "size": "1",
+      "harga": "8000",
+      "link": "#https://gofood.co.id/bandung/restaurant/cireng-gemoy-manisi-3f58b044-9c14-4d98-a5fa-67e51903202a",
+      "foto": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/02b231a4-281c-4011-98d6-79aef5b70644_Go-Biz_20230617_094718.jpeg"
+    }
+  ]
+
   }
